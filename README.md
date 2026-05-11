@@ -36,10 +36,7 @@ El objetivo es comprender el comportamiento de los usuarios en relación con su 
 
 ![Tendencia de pasos](output/tendencia_pasos.png)
 
-- Gráfico de barras: promedio de pasos por día
-- Gráfico de línea: tendencia semanal de actividad
-- Gráfico de dispersión: pasos vs calorías
-- Distribución porcentual de niveles de actividad
+
 
 ---
 

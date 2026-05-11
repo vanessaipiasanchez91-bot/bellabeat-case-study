@@ -36,6 +36,9 @@ El objetivo es comprender el comportamiento de los usuarios en relación con su 
 
 ![Tendencia de pasos](output/tendencia_pasos.png)
 
+---
+
+![Niveles de actividad](output/niveles_actividad.png)
 
 
 ---

@@ -21,6 +21,8 @@ El objetivo es comprender el comportamiento de los usuarios en relación con su 
 
 ## 📈 Visualizaciones realizadas
 
+
+
 📊 ![Promedio de pasos](output/pasos_por_dia.png)
 
 ---
@@ -35,7 +37,7 @@ El objetivo es comprender el comportamiento de los usuarios en relación con su 
 
 ---
 
-📊 ![Niveles de actividad](output/niveles_actividad.png)
+ ![Niveles de actividad](output/niveles_actividad.png)
 
 
 ---

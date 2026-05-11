@@ -6,7 +6,7 @@ En este proyecto se realizó un análisis de datos utilizando información de Fi
 ---
 
 ## 🎯 Objetivo del negocio
-El objetivo es comprender el comportamiento de los usuarios en relación con su actividad diaria, pasos, calorías quemadas y niveles de actividad para ayudar a Bellabeat a tomar decisiones basadas en datos.
+El objetivo es comprender el comportamiento de los usuarios en relación con su actividad diaria, pasos, calorías quemadas y niveles de actividad fisica para ayudar a Bellabeat a tomar decisiones basadas en datos.
 
 ---
 

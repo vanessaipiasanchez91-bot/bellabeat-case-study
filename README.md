@@ -51,7 +51,7 @@ El objetivo es comprender el comportamiento de los usuarios en relación con su 
 
 ## 📣 Recomendaciones
 - Implementar recordatorios de actividad.
-- Crear retos semanales para aumentar la participación.
+- Establecer retos semanales para aumentar la participación.
 - Personalizar recomendaciones según el nivel de actividad del usuario.
 - Incorporar elementos de motivación (logros,retos semanales,frases de motivación ).
 

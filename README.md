@@ -20,6 +20,22 @@ El objetivo es comprender el comportamiento de los usuarios en relación con su 
 ---
 
 ## 📈 Visualizaciones realizadas
+### 📊 Promedio de pasos por día
+
+![Promedio de pasos](output/pasos_por_dia.png)
+
+---
+
+### 🔵 Relación entre pasos y calorías
+
+![Pasos vs calorías](output/pasos_vs_calorias.png)
+
+---
+
+### 📈 Tendencia semanal de actividad
+
+![Tendencia de pasos](output/tendencia_pasos.png)
+
 - Gráfico de barras: promedio de pasos por día
 - Gráfico de línea: tendencia semanal de actividad
 - Gráfico de dispersión: pasos vs calorías
